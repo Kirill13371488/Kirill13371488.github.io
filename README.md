@@ -1,2 +1,2 @@
 # SchoolHelps
-["Gipsolit" Landing page](https://kserxs-23.github.io/Gipsolit/index.min.html 'Gipsolit')
+["SchoolHelps" Landing page](https://github.com/Kirill13371488/Kirill13371488.github.io/blob/master/site/index.html.html "SchoolHelps")
